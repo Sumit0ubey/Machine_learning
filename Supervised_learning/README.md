@@ -16,19 +16,31 @@ Dataset
 The dataset used in this project is the Titanic - Machine Learning from Disaster dataset from Kaggle. The dataset contains information about passengers on the Titanic and whether they survived or not. Key features include:
 
 Survived: Survival (0 = No, 1 = Yes)
+
 Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+
 Name: Passenger name
+
 Sex: Gender
+
 Age: Age in years
+
 SibSp: Number of siblings/spouses aboard the Titanic
+
 Parch: Number of parents/children aboard the Titanic
+
 Ticket: Ticket number
+
 Fare: Passenger fare
+
 Cabin: Cabin number
+
 Embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
 The dataset is included in this repository as titanic_train.csv.
 
-Project Structure
+
+      Project Structure
 
 ├── titanic_train.csv     # Dataset file
 
