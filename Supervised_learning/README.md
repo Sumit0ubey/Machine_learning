@@ -1,6 +1,6 @@
                                                 Titanic Survival Analysis and Prediction
                                                 
-![Stöwer_Titanic](https://github.com/Sumit0ubey/Machine_learning/assets/149804568/7b28866d-5575-4ff2-8b89-6fed253af662)
+          ![Stöwer_Titanic](https://github.com/Sumit0ubey/Machine_learning/assets/149804568/7b28866d-5575-4ff2-8b89-6fed253af662)
 
 This project analyzes the Titanic dataset and builds machine learning models to predict the survival of passengers based on various features.
 
@@ -31,44 +31,17 @@ The dataset is included in this repository as titanic_train.csv.
 Project Structure
 
 ├── titanic_train.csv     # Dataset file
+
 ├── titanic_analysis.py   # Main analysis and modeling script
+
 ├── README.md             # This readme file
-└── requirements.txt      # Dependencies list
 
 
-The script performs the following tasks:
+This project analyzes the Titanic dataset to predict passenger survival using machine learning models. It includes exploratory data analysis (EDA), data preprocessing, model training, and evaluation. The dataset is sourced from Kaggle and contains information about Titanic passengers such as age, gender, class, and survival status.
 
-Data Preprocessing:
-
-Renames the Sex column to Gender.
-Handles missing values in the Age and Embarked columns.
-Converts categorical variables to numerical using dummy encoding.
-Drops irrelevant columns like PassengerId, Name, Ticket, etc.
-Exploratory Data Analysis:
-
-Generates summary statistics.
-Provides visualizations for understanding the distribution and relationship of features.
-Displays correlation heatmaps, pairplots, and analysis plots for Survived, Pclass, Gender, Age, and Embarked.
-Modeling:
-
-Trains and evaluates several machine learning models:
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
-K-Nearest Neighbors Classifier
-Uses GridSearchCV to optimize hyperparameters for DecisionTreeClassifier, RandomForestClassifier, and KNeighborsClassifier.
-Results:
-
-Prints classification reports for each model.
-Compares model performance based on accuracy.
-Outputs
-Classification reports for each model.
-Accuracy comparison of the models.
-Visualization plots if enabled by user input.
-Graphical Output
-If prompted for graphical output, you can type yes to visualize:
-
-Correlation heatmaps
-Pairplots
-Count plots for Survived, Pclass, Gender
-Box plots for Age
+Features
+Dataset: titanic_train.csv includes columns like Survived, Pclass, Gender, Age, SibSp, Parch, Fare, Cabin, and Embarked.
+Models: Implemented models include Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and K-Nearest Neighbors.
+Analysis: EDA involves visualizations like correlation heatmaps, pairplots, and histograms to understand feature distributions and relationships.
+Model Evaluation: Utilizes GridSearchCV for hyperparameter tuning and evaluates models using classification_report for accuracy comparison.
+Instal
