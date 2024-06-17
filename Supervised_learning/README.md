@@ -1,6 +1,6 @@
                                                 Titanic Survival Analysis and Prediction
                                                 
-          ![Stöwer_Titanic](https://github.com/Sumit0ubey/Machine_learning/assets/149804568/7b28866d-5575-4ff2-8b89-6fed253af662)
+  ![Stöwer_Titanic](https://github.com/Sumit0ubey/Machine_learning/assets/149804568/7b28866d-5575-4ff2-8b89-6fed253af662)
 
 This project analyzes the Titanic dataset and builds machine learning models to predict the survival of passengers based on various features.
 
