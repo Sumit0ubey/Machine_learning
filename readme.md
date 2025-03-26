@@ -7,7 +7,7 @@ This repository contains various machine learning algorithms implemented in Pyth
 - **[1. Supervised Learning](/Supervised_ML/)** — Models like linear regression, svm, knn, decision tree, etc.
 - **[2. Unsupervised Learning](/Unsupervised_ML/)** — Models like Kmeans, etc.
 - **[3. Ensembles](/Ensembles/)** — Models like random forest, gradient boosting, adaboost, etc.
-- **[3. Dimensionally Reduction](/Dimensionally_Reduction/)** — Models like PCA, LDA, etc.
+- **[3. Dimensionally Reduction](/Dimensionally Reduction/)** — Models like PCA, LDA, etc.
 
 ---
 
