@@ -4,16 +4,10 @@ This repository contains various machine learning algorithms implemented in Pyth
 
 ## 📁 **Contents**  
 
-- **Linear Regression** — Simple and multiple linear regression models  
-- **Logistic Regression** — Binary classification  
-- **Decision Trees** — Decision tree classifiers with visualization  
-- **Random Forest** — Ensemble learning with multiple decision trees  
-- **Support Vector Machines (SVM)** — Classification using different kernels  
-- **K-Nearest Neighbors (KNN)** — KNN classification implementation  
-- **K-Means Clustering** — Unsupervised clustering algorithm  
-- **Principal Component Analysis (PCA)** — Dimensionality reduction technique  
-- **Neural Networks** — Simple feedforward neural network implementation  
-- **Deep Learning Models** — Basic deep learning models using TensorFlow and Keras  
+- **[1. Supervised Learning](/Supervised_ML/)** — Models like linear regression, svm, knn, decision tree, etc.
+- **[2. Unsupervised Learning](/Unsupervised_ML/)** — Models like Kmeans, etc.
+- **[3. Ensembles](/Ensembles/)** — Models like random forest, gradient boosting, adaboost, etc.
+- **[3. Dimensionally Reduction](/Dimensionally_Reduction/)** — Models like PCA, LDA, etc.
 
 ---
 
