@@ -1,4 +1,4 @@
-# Machine Learning Repository  
+# Machine Learning  
 
 This repository contains various machine learning algorithms implemented in Python. Each algorithm includes a Jupyter Notebook demonstrating its application and explanation of the concepts.  
 
